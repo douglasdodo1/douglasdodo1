@@ -1,0 +1,3 @@
+-👋Olá, sou Douglas.Hi,👋 I'm Douglas.
+-☕Atualmente programo apenas em Java/☕Currently I only program in Java.
+-🤓Estudo na UFPE(Universidade Federal de Pernambuco)/🤓Study at UFPE (Federal University of Pernambuco).

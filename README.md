@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasdodo1)](https://github.com/anuraghazra/github-readme-stats)
+![douglasdodo1's Stats](https://github-readme-stats.vercel.app/api?username=douglasdodo1&theme=dracula&show_icons=true&hide_border=true&count_private=true)
